@@ -56,6 +56,6 @@ Determine if the PSI across all manufacturing lots is statistically different fr
 
 * Results for the T-Test accounting for all vehicles and Lots 1 and 2 suggest that these results aren’t statistically different. Each Lot has a p-value > 0.05. Subsequently, Lot 3 is statistically different from Lots 1 and 2, with a p-value of 0.04 > 0.05.
 
-## ## Study Design: MechaCar vs Competition
+## Study Design: MechaCar vs Competition
 
 
