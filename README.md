@@ -22,3 +22,12 @@ With the p-value being considerably smaller than the significance level of 0.05%
 
 **Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?**
 With an R-squared value of roughly 0.71, an accuracy of approximately 71% indicates the factors used to predict MPG in MechaCar’s prototypes would be quite effective.
+
+## Summary Statistics on Suspension Coils
+
+
+
+![PSI_total_summary](https://user-images.githubusercontent.com/67697826/210949673-8438357a-6b4e-47cc-9407-d556bf8597da.png)
+![PSI_lot_summary](https://user-images.githubusercontent.com/67697826/210949730-d8b422cf-8b8d-41c6-9125-03806cc046ad.png)
+
+* The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
