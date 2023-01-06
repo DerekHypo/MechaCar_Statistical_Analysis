@@ -57,5 +57,5 @@ Determine if the PSI across all manufacturing lots is statistically different fr
 * Results for the T-Test accounting for all vehicles and Lots 1 and 2 suggest that these results aren’t statistically different. Each Lot has a p-value > 0.05. Subsequently, Lot 3 is statistically different from Lots 1 and 2, with a p-value of 0.04 > 0.05.
 
 ## Study Design: MechaCar vs Competition
-
+A hypothesis can be created. The null hypothesis would describe the mean for resale value to determine if MechaCar is statistically equivalent to the mean resale value of the top competitors to MechaCar, determining if MechaCar is as resaleable as rival vehicles. The alternative hypothesis, would inversely evaluate if MechaCar’s mean resale value isn’t equal to the mean resale value of competitor vehicles.
 
