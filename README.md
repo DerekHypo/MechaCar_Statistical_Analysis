@@ -54,4 +54,4 @@ Determine if the PSI across all manufacturing lots is statistically different fr
 ![T-Test_Lot3](https://user-images.githubusercontent.com/67697826/210957120-cd8bd3d6-91a1-416b-9dd5-cf9c51ee73c7.png)
 
 
-* Results for the T-Test accounting for all vehicles and Lots 1 and 2 suggest that these results aren’t statistically different. Each Lot has a p-value > 0.05. Subsequently, Lot 3 is statistically different from Lots 1 and 2, with a p-value of 0.04 > 0.05.
+** Results for the T-Test accounting for all vehicles and Lots 1 and 2 suggest that these results aren’t statistically different. Each Lot has a p-value > 0.05. Subsequently, Lot 3 is statistically different from Lots 1 and 2, with a p-value of 0.04 > 0.05.
