@@ -36,7 +36,7 @@ With an R-squared value of roughly 0.71, an accuracy of approximately 71% indica
 With a median PSI variance of 62.29, the present manufacturing data meets the requirement of under 100 PSI for all lots. However, separately, variances for Lot 1 and Lot 2 remain within compliance, with variances of 0.98 and 7.47 respectively.  Lot 3 on the other hand, has a variance of about 170, which is out of the requirement of under 100 PSI. 
 
 ## T-Tests on Suspension Coils
-
+Determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch.
 
 
 ![T-Test_All](https://user-images.githubusercontent.com/67697826/210957017-f9f22153-e5d0-4f96-a488-5a63638ee85f.png)
