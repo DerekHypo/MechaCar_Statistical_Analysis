@@ -6,6 +6,8 @@
 * Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, write a summary interpretation of the findings.
 
 ## Linear Regression to Predict MPG
+![Linear Regression to Predict MPG](https://user-images.githubusercontent.com/67697826/210939327-6660c308-79a9-4ed9-a31c-ca066b534629.png)
+![Linear Regression to Predict MPG2](https://user-images.githubusercontent.com/67697826/210939338-d9a72de8-c0d2-4be7-8379-fe5765a4e696.png)
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
